@@ -1,2 +1,2 @@
-# LitNim-code-refactor-challenge
+# code-refactor-challenge-ts
 Restructuring existing code for a webpage
